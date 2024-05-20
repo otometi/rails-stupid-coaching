@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+ .user-coach {
+   border-left: 7px solid #DDDDDD;
+   padding-left: 10px;
+ }
+
+ .coach {
+  background-color: #FFFFE1;
+  width: 500px;
+  padding-left: 10px;
+ }
+
+ .input-group {
+  width: 500px;
+  height: 50px;
+ }
+
+ .coaching {
+  margin: 20px;
+ }
